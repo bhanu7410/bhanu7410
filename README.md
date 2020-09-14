@@ -7,5 +7,5 @@
 
 
 ### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu7410&layout=compact&theme=darcula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu7410&layout=compact&theme=ayu)]
 - 🌱 I’m currently learning ... Node.js
