@@ -8,4 +8,4 @@
 
 ### Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu7410&layout=compact&theme=ayu-mirage)
-- 🌱 I’m currently learning ... PHP
+- 🌱 I’m currently learning ... React
