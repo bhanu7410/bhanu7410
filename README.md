@@ -9,7 +9,4 @@
 ### Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu7410&layout=compact&theme=ayu-mirage)
 
-  <img  align="left"  alt="Bhanu's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=bhanu7410"  />
-  <img  align="left"  alt="Bhanu's Language Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu7410&layout=compact&theme=dark"  />
-
 - 🌱 I’m currently learning ... React
